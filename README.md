@@ -11,3 +11,6 @@ Y para el build
 ```
 npm run build
 ```
+
+Deployed:
+https://amndev.github.io/tareas-js/
